@@ -6,7 +6,7 @@ This project is a Job Management System built using React for the frontend and S
 
 ## Project Structure
 
-react-yt-project/
+React_Strapi_Website/
 │
 ├── TimSoft-FrontEnd/
 │ ├── public/
@@ -68,12 +68,12 @@ react-yt-project/
 1. Navigate to the `TimSoft-FrontEnd` directory.
 2. Install the dependencies:
    npm install
-   # or
+or
    yarn install
 
 3. Start the development server:
 npm start
-# or
+or
 yarn start
 
 #### Backend
@@ -81,11 +81,11 @@ yarn start
 1. Navigate to the TimSoft-BackEnd directory.
 2. Install the dependencies:
     npm install
-    # or
+    or
     yarn install
 3. Start the Strapi server:
     npm run develop
-    # or
+    or
     yarn develop
 
 ## Environment Variables
