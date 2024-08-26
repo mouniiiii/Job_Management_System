@@ -1,6 +1,6 @@
 const Hero = ({
-    title='TimSoft Group',
-    subtitle='This is chance to become a Timsoft member'
+    title='Job Management System',
+    subtitle='Simplifying the process of job management',
 }) => {
   return (
     <section className='bg-indigo-700 py-20 mb-4'>

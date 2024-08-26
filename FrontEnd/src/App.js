@@ -27,7 +27,6 @@ const addJob = async (newJob) => {
         company: newJob.company,
       }
     };
-
     const res = await axios.post('http://localhost:1337/api/jobs', formattedJob, {
       headers: {
         'Content-Type': 'application/json',
